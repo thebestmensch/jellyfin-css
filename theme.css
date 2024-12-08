@@ -1,0 +1,4 @@
+/* hide episode count */
+.countIndicator {display: none;}
+/* hide played indicator */
+.playedIndicator {display: none;}
